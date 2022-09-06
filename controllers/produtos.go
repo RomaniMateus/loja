@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/mateus/models"
+	"github.com/loja-1/models"
 )
 
 var temp = template.Must(template.ParseGlob("templates/*.html"))

@@ -1,6 +1,6 @@
 package models
 
-import "github.com/mateus/db"
+import "github.com/loja-1/db"
 
 type Produto struct {
 	Id         int

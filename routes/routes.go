@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/mateus/controllers"
+	"github.com/loja-1/controllers"
 )
 
 func CarregaRotas() {
